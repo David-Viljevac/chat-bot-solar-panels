@@ -1,5 +1,4 @@
 <template>
-  <div>Your Chat Bot</div>
   <ChatContainer/>
 </template>
 
