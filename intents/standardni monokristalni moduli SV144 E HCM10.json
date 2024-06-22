@@ -1,0 +1,138 @@
+{
+  "id": "3bead870-90bf-4e04-b614-d0699f44eccc",
+  "name": "standardni monokristalni moduli SV144 E HXM10",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [],
+  "contexts": [],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "Modul SV144 E HXM10 ima raspon izlazne snage od 535-550 Wp. Ima dimenzije 2278x1134x35 mm te ima 21.29% efikasnosti. Za više informacija posjetite https://solvis.hr/proizvodi/monokristalni-moduli/sv144-e-hcm10/",
+            "Detaljne informacije o modulu SV144 E HXM10 možete pronaći na stranici https://solvis.hr/proizvodi/monokristalni-moduli/sv144-e-hcm10/"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "zanima me više informacija o modulu SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "37b9fa5c-575b-4e0b-abac-3183f25d26c3",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "zelim znati više o karakteristikama modula SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "c1381395-9a0f-4b70-b1c2-9cc98dd43968",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Karakteristike modula SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "52a6ce20-56ad-4782-9b52-363086a8cf9c",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "informacije modula SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "0b5dcc0d-0ca5-43d9-af87-0609c788db2a",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "hocu znati više o modulu SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "bfe043e9-6e87-4a52-b49d-c579d7316e2d",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "recite mi nesto više o modulu SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "2f2e818d-5f9c-47ad-af9b-3d27904b3022",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "modul SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "baf2882c-43a9-4fe6-b171-15034e4a3ae2",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "koje sve karakteristike ima modul SV144 E HXM10",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "659ce4b3-ac16-4999-8d56-741ef8807cfc",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}
