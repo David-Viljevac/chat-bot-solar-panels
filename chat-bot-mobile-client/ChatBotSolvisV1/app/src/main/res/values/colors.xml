@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_border">#FFCCCCCC</color>
+    <color name="gray_dark_main">#FF363636</color>
+    <color name="black_60_opacity">#96000000</color> <!-- 60% opacity black -->
+    <color name="yellow_gradient_end">#E6FFC904</color> <!-- 89% opacity #ffc904 -->
+    <color name="time_text">#FF666666</color>
+    <color name="gray_message_bg">#B3363636</color> <!-- 6e% opacity #363636 -->
+    <color name="yellow_main">#FFFFCA04</color>
+    <color name="yellow_message_bg">#B1FFC904</color> <!-- b1% opacity #ffc904 -->
+</resources>
